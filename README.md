@@ -17,8 +17,8 @@
 
 ## About the Project
 
-![PortfolioScreenshot](./public/assets/screencap_website.jpg)<br />
-[Deployment](https://clairecashmore17.github.io/book-saerch-engine/)
+![PortfolioScreenshot](./public/screencap_website.jpg)<br />
+[Deployment](https://infinite-citadel-51471.herokuapp.com/)
 
 ## Languages and Libraries Used
 
