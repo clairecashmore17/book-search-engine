@@ -17,7 +17,7 @@
 
 ## About the Project
 
-![PortfolioScreenshot](./public/screencap_website.jpg)<br />
+![PortfolioScreenshot](./client/public/screencap_website.jpg)<br />
 [Deployment](https://infinite-citadel-51471.herokuapp.com/)
 
 ## Languages and Libraries Used
@@ -29,15 +29,15 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/clairecashmore17/claire-cashmore-portfolio.git
+   git clone https://github.com/clairecashmore17/book-search-engine.git
    ```
 2. Install Dependencies
    ```sh
-   npm i
+   npm i in the root file.
    ```
 3. Run the application
    ```sh
-   npm start
+   npm run develop
    ```
 
 ## License
